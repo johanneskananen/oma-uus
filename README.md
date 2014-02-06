@@ -5,3 +5,5 @@ This is the first application for the
 by [Michael Hartl](http://michaelhartl.com/).
 
 Hirveetä paskaa ku ei mikään toimi!
+
+Jokos nyt toimis?!
